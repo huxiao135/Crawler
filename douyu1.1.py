@@ -87,7 +87,7 @@ def main():
 			i=i+1
 		except:
 			print('bunengzhuaqu')
-	a.to_csv('dome.scv')
+	a.to_csv('dome.csv')
 
 if __name__ == '__main__':
 	main()
